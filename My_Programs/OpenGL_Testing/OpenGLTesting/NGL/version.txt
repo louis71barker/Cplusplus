@@ -1,0 +1,7 @@
+------------------------------------------------------------
+revno: 88
+committer: Jon Macey <jmacey@bournemouth.ac.uk>
+branch nick: NGL
+timestamp: Thu 2014-03-06 11:27:10 +0000
+message:
+  update the sphereInFrustum in Camera as Vec3 param was not const
